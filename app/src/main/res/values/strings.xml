@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Отгадай загадку</string>
+    <string name="textHeader">Загадка</string>
+    <string name="textAnswer">Ваш ответ</string>
+    <string name="textCount">0/10</string>
+    <string name="textStat">Статистика</string>
+    <string name="textZagad">Загадка</string>
+    <string name="textAnswerBtn">Ответ</string>
+    <string name="textPlayAgain">Начать сначала</string>
+    <string name="textExit">Выход</string>
+
+    <string name="textHeader2">УКАЖИ ОТВЕТ</string>
+    <string name="textCheck">Проверка</string>
+
+    <string name="textHeader3">Статистика</string>
+    <string name="textCountStat">Количество загадок</string>
+    <string name="textWins">Правильные ответы</string>
+    <string name="textLoses">Неправильные ответы</string>
+    <string name="textOnMain">На главную</string>
+</resources>
